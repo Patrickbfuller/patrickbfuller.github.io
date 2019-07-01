@@ -30,6 +30,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+## About Me
+[Link](https://patrickbfuller.github.io/about)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
