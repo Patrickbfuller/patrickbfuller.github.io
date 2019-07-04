@@ -1,14 +1,16 @@
-#Hi, These are a few tidbits to help you get to know me
+#Hi,
+I have been involved in music all my life, performing, writing, recording and even dragged around to shows by my parents. This year I have dived head first into Data Science, getting up to my elbows in Python and SQL the corresponding DS libraries(NumPy, Pandas, Sci-Kit Learn, Spark, Keras).
 
-* ...
-* ...
-* ...
+* A few blogs I have written:
 
-I have been playing music almost all my life. 
+* [Librosa Library](https://medium.com/@patrickbfuller/librosa-a-python-audio-libary-60014eeaccfb)
+* [Catch Me If You GAN](https://medium.com/@patrickbfuller/catch-me-if-you-gan-7c7750a32bdd)
+* [Scatter Art Tutorial](https://medium.com/@patrickbfuller/numpy-art-a-tutorial-in-scatter-fun-634f79628435)
 
-Here are a few videos of my performaces.
 
-[College](https://www.youtube.com/watch?v=TI8nSJ9-C3c)  
-[TinyDeskContest](https://www.youtube.com/watch?v=jx6lEtEZ0QY)  
-[SongwriterNight](https://www.youtube.com/watch?v=skgASEwlxJ4)  
-[FullerAndFather](https://www.youtube.com/watch?v=NXAVzWr-wzk)  
+* A few performances from over the years:
+
+1. [Songwriter Night](https://www.youtube.com/watch?v=skgASEwlxJ4)  
+2. [College Open Mic](https://www.youtube.com/watch?v=TI8nSJ9-C3c)  
+3. [Tiny_Desk Contest](https://www.youtube.com/watch?v=jx6lEtEZ0QY)
+4. [Whiskey Pines](https://www.youtube.com/watch?v=qqT8sBGmPas)  
