@@ -7,9 +7,9 @@ layout: default
 
 ## What I'm Up To
 
-[A Recent Project](https://github.com/Patrickbfuller/solve_music_probs/blob/master/README.md)
+[A Recent Project](https://github.com/Patrickbfuller/classify_genre)
 
-[The Related App I made](http://www.morefans.online)
+[The Related App I made](http://www.whatsthatgenre.com/)
 
 ## About Me
 
